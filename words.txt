@@ -1,0 +1,16 @@
+AI: Artificial intelligence
+SDLC: Software development life cycle
+AHCC: Applied and human centre computing
+TGIF: Thanks god its Friday
+Java: An Island in Indonesia
+POJO: Plain old Java object
+SQL: Structured Query Language
+JSP: Java Server Pages
+AJAX: Asynchronous JavaScript and XML
+GNU: GNU's Not Unix
+HTML: Hypertext Markup Language
+JDBC: Java Database Connectivity
+JSON: JavaScript Object Notation
+PHP: Hypertext Preprocessor
+XML: eXtensible Markup Language
+UML: Unified Modeling Language

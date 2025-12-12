@@ -1,0 +1,24 @@
+Slot,LandName,Price Hong Kong Monopoly game board layout (2000 version)
+0,Go,0
+1,Chek Lap Kok,600
+2,Mui Wo,600
+3,Peng Chau,1000
+4,Cheung Chau,1000
+5,Lamma Island,1200
+6,Lo Wu,1400
+7,Yuen Long,1400
+8,Sham Tseng,1600
+9,Kwai Chung,1800
+10,Sha Tin,1800
+11,Sai Kung,2000
+12,Lei Yue Mun,2200
+13,Wong Tai Sin,2200
+14,Kowloon Tong,2400
+15,Sham Shui Po,2600
+16,Mong Kok,2600
+17,Tsim Sha Tsui,2800
+18,Casueway Bay,3000
+19,Happy Valley,3000
+20,Central,3200
+21,Repulse Bay,3500
+22,The Peak,4000
